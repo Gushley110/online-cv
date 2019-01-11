@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Gustavo García Sánchez
-    tagline: Desarrollador Web Full Stack
+    tagline: Desarrollador Web Full-Stack
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -36,7 +36,10 @@ sidebar:
     interests:
       title: Intereses
       intlist:
-        - item: Programar
+        - item: Programación
+          link:
+
+        - item: Seguridad informática
           link:
 
         - item: Basketball
@@ -49,8 +52,8 @@ career-profile:
     title: Perfil Profesional
     summary: |
       Estudiante de los últimos semestres en Ingeniería en Sistemas Computacionales en IPN-ESCOM. 
-      Cuento con dos años de experiencia desarrollando sitios y sistemas web en el ámbito profesional. 
-      En el ámbito académico he participado en el desarrollo de aplicaciones móviles y diferentes proyectos 
+      Dos años de experiencia desarrollando sitios y sistemas web en el ámbito profesional. 
+      Siete años programando académicamente, se han desarrollado aplicaciones móviles y diferentes proyectos 
       relacionados con la ciencia de datos.
 
 education:
@@ -83,7 +86,6 @@ projects:
     title: Proyectos
     intro: >
       
-
     assignments:
       - title: Polilibro Electrónica Analógica
         link: "http://www.comunidad.escom.ipn.mx/ralmazanf/"
@@ -111,7 +113,7 @@ skills:
       - name: Javascript y jQuery
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: HTML5 y CSS
         level: 98%
 
       - name: Java
@@ -125,6 +127,9 @@ skills:
 
       - name: MySQL
         level: 85%
+
+      - name: Git y otros sistemas de control de versiones
+        level: 90%
 
 
 footer: >
